@@ -120,28 +120,28 @@
         <div class="container mt-5">
             <div class="row">
                 <div class="col text-center d-flex flex-column align-items-center">
-                    <img src="~/assets/sv1.png" alt="" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
+                    <img src="https://gedipend.sirv.com/img/images/img13.jpg" alt="ava" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
                     <h3 class="fw-bold">Tai Nguyen</h3>
                     <h5 class="text-danger">On-site Guide</h5>
                     <p>Friendly, play games with tourists but being rage easily</p>
                 </div>
 
                 <div class="col text-center d-flex flex-column align-items-center">
-                    <img src="images/img14.jpg" alt="" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
+                    <img src="https://gedipend.sirv.com/img/images/img14.jpg" alt="ava" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
                     <h3 class="fw-bold">Thuan Le</h3>
                     <h5 class="text-danger">Tour Guide</h5>
                     <p>KFC,Jolibee or McDonald bro?</p>
                 </div>
 
                 <div class="col text-center d-flex flex-column align-items-center">
-                    <img src="images/img15.jpg" alt="" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
+                    <img src="https://gedipend.sirv.com/img/images/img15.jpg" alt="ava" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
                     <h3 class="fw-bold">Quao Quy</h3>
                     <h5 class="text-danger">Step-on Guide</h5>
                     <p>Nói nhiều chém chết mẹ m h</p>
                 </div>
 
                 <div class="col text-center d-flex flex-column align-items-center">
-                    <img src="images/img19.jpg" alt="" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
+                    <img src="https://gedipend.sirv.com/img/images/img19.jpg" alt="ava" class="rounded-circle mb-3" style="width: 15rem; height:15rem">
                     <h3 class="fw-bold">Truong Pham</h3>
                     <h5 class="text-danger">Step-on Guide</h5>
                     <p>We fired this guy.</p>
