@@ -1,0 +1,10 @@
+.home {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to right, rgba(0,0,0,0) 10%, rgba(0,0,0,1)),url(img/hotel.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
